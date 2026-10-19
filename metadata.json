@@ -1,0 +1,6 @@
+{
+  "name": "Strategy Playbook Execution Engine",
+  "description": "Comprehensive strategy playbook analyzer, risk auditor, and execution engine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
